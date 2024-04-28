@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  9 19:00:01 2024
-
-@author: mp072
-"""
 
 import pandas as pd
 import tensorflow as tf
